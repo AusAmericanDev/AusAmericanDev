@@ -44,7 +44,7 @@
 - Contribute to one open-source issue (docs or a small bug)
 
 ### 🤝 Contact
-- Email: **cynthia.burns.dev [at] gmail [dot] com**
+- Email: **cburnscode [at] gmail [dot] com**
 - Portfolio: *(coming soon)*
 
 <sub>Brand accents: Lavender `#B395FF` • Deep plum `#3A224F`. Clean first, cute second.</sub>
